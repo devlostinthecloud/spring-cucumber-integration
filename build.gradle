@@ -1,0 +1,9 @@
+allprojects {
+	group = 'com.devlostinthecloud.example'
+}
+
+subprojects {
+	repositories {
+		mavenCentral()
+	}
+}

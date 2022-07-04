@@ -1,0 +1,4 @@
+rootProject.name = 'spring-cucumber-integration'
+include 'service'
+include 'service-functional'
+
